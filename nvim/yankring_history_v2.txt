@@ -1,0 +1,2 @@
+source /usr/local/bin/virtualenvwrapper.sh,V
+source VIRTUALENVWRAPPER_VIRTUALENV=/usr/local/bin/virtualenv,V
